@@ -2,3 +2,14 @@
 .project
 .classpath
 /.settings/*
+*~
+*.bak
+*.swp
+*.log
+.idea
+*.iml
+*.DS_Store
+target
+atlassian-ide-plugin.xml
+dependency-reduced-pom.xml
+
